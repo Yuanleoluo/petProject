@@ -4,7 +4,7 @@ Pet website
 
 ## Description
 
-**practice** webiste of baby to use every [link](http://www.p.com) and mark up we went over
+**practice** webiste of baby to use every [link to github](https://yuanleoluo.github.io/petProject) and mark up we went over
 
 ## Setup
 _none_
