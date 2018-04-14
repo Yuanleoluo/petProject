@@ -1,19 +1,19 @@
 Pet website
 =
-###by Yuan han
+### by Yuan han
 
-##Description
+## Description
 
 **practice** webiste of baby to use every [link](http://www.p.com) and mark up we went over
 
-##Setup
+## Setup
 _none_
 
-##Technologies Used
+## Technologies Used
 * css
 * html
 * git
 * github
 
-##legal
+## legal
 1 none
